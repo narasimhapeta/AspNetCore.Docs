@@ -1102,7 +1102,7 @@
         },
         {
             "source_path": "aspnetcore/blazor/fundamentals/additional-scenarios.md",
-            "redirect_url": "/aspnet/core/blazor/fundamentals/blazor-signalr",
+            "redirect_url": "/aspnet/core/blazor/fundamentals/signalr",
             "redirect_document_id": false
         }
     ]
